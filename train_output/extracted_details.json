@@ -1,0 +1,1059 @@
+{
+  "IESCO_0004": {
+    "level1": {
+      "provider": "IESCO",
+      "tariff": "A-1A(01)",
+      "sanctioned_load_kw": 3,
+      "bill_month": "2026-09",
+      "reading_date": "2026-09-25",
+      "issue_date": "2026-09-26",
+      "due_date": "2026-10-08",
+      "previous_reading": 9301,
+      "current_reading": 9459,
+      "units_consumed": 158,
+      "charges": [
+        {
+          "type": "energy",
+          "amount": 6102
+        },
+        {
+          "type": "subsidy",
+          "amount": -3332
+        },
+        {
+          "type": "fpa",
+          "amount": 267
+        }
+      ],
+      "total_charges": 2770,
+      "taxes": [],
+      "total_taxes": 498,
+      "current_bill": 3267,
+      "arrears": 0,
+      "payable_within_due_date": 3535,
+      "payable_after_due_date": 3812
+    },
+    "details": {
+      "usage_history": [
+        {
+          "month": "2025-09",
+          "units": 20,
+          "bill_amount": 215,
+          "payment": 215
+        },
+        {
+          "month": "2025-10",
+          "units": 163,
+          "bill_amount": 1930,
+          "payment": 1930
+        },
+        {
+          "month": "2025-11",
+          "units": 148,
+          "bill_amount": 1971,
+          "payment": 1971
+        },
+        {
+          "month": "2025-12",
+          "units": 102,
+          "bill_amount": 1357,
+          "payment": 1357
+        },
+        {
+          "month": "2026-01",
+          "units": 105,
+          "bill_amount": 1415,
+          "payment": 1415
+        },
+        {
+          "month": "2026-02",
+          "units": 116,
+          "bill_amount": 2016,
+          "payment": 2016
+        },
+        {
+          "month": "2026-03",
+          "units": 104,
+          "bill_amount": 2665,
+          "payment": 2665
+        },
+        {
+          "month": "2026-04",
+          "units": 133,
+          "bill_amount": 3130,
+          "payment": 3130
+        },
+        {
+          "month": "2026-05",
+          "units": 176,
+          "bill_amount": 3634,
+          "payment": 3634
+        },
+        {
+          "month": "2026-06",
+          "units": 197,
+          "bill_amount": 3594,
+          "payment": 3600
+        },
+        {
+          "month": "2026-07",
+          "units": 110,
+          "bill_amount": 566,
+          "payment": 0
+        },
+        {
+          "month": "2026-08",
+          "units": 47,
+          "bill_amount": 3198,
+          "payment": 3198
+        }
+      ],
+      "payment_history": [],
+      "charge_lines": [
+        {
+          "label": "Total Electricity Charges",
+          "units": null,
+          "rate": null,
+          "amount": 6102
+        },
+        {
+          "label": "Subsidies",
+          "units": null,
+          "rate": null,
+          "amount": -3332
+        },
+        {
+          "label": "Total FPA",
+          "units": null,
+          "rate": null,
+          "amount": 267
+        }
+      ],
+      "tax_lines": [],
+      "late_payment_amounts": [
+        {
+          "label": "Till 12-OCT-26",
+          "amount": 3674
+        },
+        {
+          "label": "After 12-OCT-26",
+          "amount": 3812
+        }
+      ],
+      "printed_percentages": [
+        {
+          "label": "Net Electricity Charges",
+          "percent": 84.76
+        },
+        {
+          "label": "Taxes",
+          "percent": 15.24
+        }
+      ],
+      "connection_info": {
+        "category": "Domestic",
+        "connection_type": "Protected",
+        "meter_rows": [
+          {
+            "previous": 9301,
+            "present": 9459,
+            "units": 158
+          }
+        ],
+        "mdi_kw": null,
+        "is_net_metering": false
+      },
+      "other_printed_amounts": [
+        {
+          "label": "L.P SURCHARGE",
+          "amount": 139
+        },
+        {
+          "label": "Arrears",
+          "amount": 0
+        },
+        {
+          "label": "Installment",
+          "amount": 0
+        },
+        {
+          "label": "Adjustments",
+          "amount": 0
+        },
+        {
+          "label": "W.E Credit",
+          "amount": 0
+        },
+        {
+          "label": "Lock Open Credit",
+          "amount": 0
+        }
+      ],
+      "notes": "TEXT Reference No to 8118 or Call 118. آپ کے اس بل میں جو 26 میں جو آئی 26 کے صرف شدہ یونٹس 110 کے ایڈ جسٹمنٹ (FPA) کے 267 روپے بھی شامل ہیں آپ کے موجودہ بجلی کے بل 6,599 روپے میں حکومت پاکستان کی جانب سے 3,332 روپے کی سبسڈی شامل ہے"
+    }
+  },
+  "KESC_0004": {
+    "level1": {
+      "provider": "KE",
+      "tariff": "A1-R",
+      "sanctioned_load_kw": 10,
+      "bill_month": "2026-06",
+      "reading_date": "2026-06-25",
+      "issue_date": "2026-06-29",
+      "due_date": "2026-07-13",
+      "previous_reading": 1163.29,
+      "current_reading": 1923.73,
+      "units_consumed": 901,
+      "charges": [
+        {
+          "type": "fixed",
+          "amount": 3375
+        },
+        {
+          "type": "energy",
+          "amount": 26257.99
+        },
+        {
+          "type": "energy",
+          "amount": 6582.43
+        },
+        {
+          "type": "quarterly_adjustment",
+          "amount": -1442.74
+        },
+        {
+          "type": "quarterly_adjustment",
+          "amount": 61.1
+        },
+        {
+          "type": "fpa",
+          "amount": 354.19
+        },
+        {
+          "type": "surcharge",
+          "amount": 2910.04
+        }
+      ],
+      "total_charges": 38098.01,
+      "taxes": [
+        {
+          "type": "electricity_duty",
+          "amount": 520.85
+        },
+        {
+          "type": "gst",
+          "amount": 6951.39
+        }
+      ],
+      "total_taxes": 7472.24,
+      "current_bill": 45570.25,
+      "arrears": -91877.02,
+      "payable_within_due_date": 0,
+      "payable_after_due_date": 0
+    },
+    "details": {
+      "usage_history": [
+        {
+          "month": "2025-06",
+          "units": 943,
+          "bill_amount": null,
+          "payment": null
+        },
+        {
+          "month": "2025-07",
+          "units": 637,
+          "bill_amount": null,
+          "payment": null
+        },
+        {
+          "month": "2025-08",
+          "units": 665,
+          "bill_amount": null,
+          "payment": null
+        },
+        {
+          "month": "2025-09",
+          "units": 555,
+          "bill_amount": null,
+          "payment": null
+        },
+        {
+          "month": "2025-10",
+          "units": 522,
+          "bill_amount": null,
+          "payment": null
+        },
+        {
+          "month": "2025-11",
+          "units": 143,
+          "bill_amount": null,
+          "payment": null
+        },
+        {
+          "month": "2025-12",
+          "units": 121,
+          "bill_amount": null,
+          "payment": null
+        },
+        {
+          "month": "2026-01",
+          "units": 114,
+          "bill_amount": null,
+          "payment": null
+        },
+        {
+          "month": "2026-02",
+          "units": 131,
+          "bill_amount": null,
+          "payment": null
+        },
+        {
+          "month": "2026-03",
+          "units": 187,
+          "bill_amount": null,
+          "payment": null
+        },
+        {
+          "month": "2026-04",
+          "units": 298,
+          "bill_amount": null,
+          "payment": null
+        },
+        {
+          "month": "2026-05",
+          "units": 599,
+          "bill_amount": null,
+          "payment": null
+        },
+        {
+          "month": "2026-06",
+          "units": 901,
+          "bill_amount": null,
+          "payment": null
+        }
+      ],
+      "payment_history": [
+        {
+          "month": "2026-05",
+          "billed": 32842.35,
+          "paid": 3531.0,
+          "paid_on": "2025-12-06"
+        },
+        {
+          "month": "2026-04",
+          "billed": 18957.94,
+          "paid": 27914.0,
+          "paid_on": "2025-06-06"
+        },
+        {
+          "month": "2026-03",
+          "billed": 13564.05,
+          "paid": 29351.0,
+          "paid_on": "2025-07-07"
+        }
+      ],
+      "charge_lines": [
+        {
+          "label": "Fixed Charges",
+          "units": 5,
+          "rate": 675.0,
+          "amount": 3375.0
+        },
+        {
+          "label": "Variable Off Peak",
+          "units": 760.44,
+          "rate": 34.53,
+          "amount": 26257.99
+        },
+        {
+          "label": "Variable Peak",
+          "units": 140.5,
+          "rate": 46.85,
+          "amount": 6582.43
+        },
+        {
+          "label": "Uniform Quarterly Adjustment",
+          "units": 726.57,
+          "rate": -1.9857,
+          "amount": -1442.74
+        },
+        {
+          "label": "Uniform Quarterly Adjustment",
+          "units": 174.37,
+          "rate": 0.3504,
+          "amount": 61.1
+        },
+        {
+          "label": "FCA :Apr-26",
+          "units": 297.46,
+          "rate": 1.1907,
+          "amount": 354.19
+        },
+        {
+          "label": "Additional Surcharge (PHL)",
+          "units": 900.94,
+          "rate": 3.23,
+          "amount": 2910.04
+        }
+      ],
+      "tax_lines": [
+        {
+          "label": "Electricity Duty",
+          "amount": 520.85
+        },
+        {
+          "label": "Sales Tax u/s 3(1)*",
+          "amount": 6951.39
+        }
+      ],
+      "late_payment_amounts": [],
+      "printed_percentages": [
+        {
+          "label": "Energy Charges",
+          "percent": 83.6
+        },
+        {
+          "label": "Taxes and Duties",
+          "percent": 16.4
+        }
+      ],
+      "connection_info": {
+        "category": null,
+        "connection_type": null,
+        "meter_rows": [
+          {
+            "previous": 1163.29,
+            "present": 1923.73,
+            "units": 760.44
+          },
+          {
+            "previous": 402.35,
+            "present": 542.85,
+            "units": 140.5
+          },
+          {
+            "previous": 10865.55,
+            "present": 12238.4,
+            "units": 1372.85
+          },
+          {
+            "previous": 4.97,
+            "present": 6.53,
+            "units": 1.56
+          }
+        ],
+        "mdi_kw": 4.686,
+        "is_net_metering": true
+      },
+      "other_printed_amounts": [
+        {
+          "label": "Net Metering Benefit",
+          "amount": -114640.13
+        },
+        {
+          "label": "Opening Balance",
+          "amount": -91877.02
+        },
+        {
+          "label": "Previous Dues",
+          "amount": -91877.02
+        },
+        {
+          "label": "Remaining Dues",
+          "amount": -91877.02
+        },
+        {
+          "label": "Current Bill Amount",
+          "amount": 45570.25
+        },
+        {
+          "label": "Outstanding Balance",
+          "amount": -160946.9
+        }
+      ],
+      "notes": "FCA of XWDISCOs is also being charged to KE consumers as part of Uniform FCA starting from the month of Jun 25. As per SRO 547/2026 read with SRO 251/2026, prosumers registered under the Prosumer Regulations 2026 (PR) are billed according to the rate and mechanism defined in PR. Net metering consumers with existing valid agreements continue to be billed under the repealed 2015 regulations until the expiry of their agreements."
+    }
+  },
+  "KESC_0008": {
+    "level1": {
+      "provider": "KE",
+      "tariff": "A1-R",
+      "sanctioned_load_kw": 3,
+      "bill_month": "2026-04",
+      "reading_date": "2026-04-03",
+      "issue_date": "2026-04-07",
+      "due_date": "2026-04-21",
+      "previous_reading": 8819,
+      "current_reading": 8970,
+      "units_consumed": 151,
+      "charges": [
+        {
+          "type": "fixed",
+          "amount": 900
+        },
+        {
+          "type": "energy",
+          "amount": 1054
+        },
+        {
+          "type": "energy",
+          "amount": 663.51
+        },
+        {
+          "type": "quarterly_adjustment",
+          "amount": 52.91
+        },
+        {
+          "type": "fpa",
+          "amount": 125.27
+        },
+        {
+          "type": "surcharge",
+          "amount": 64.93
+        }
+      ],
+      "total_charges": 2860.62,
+      "taxes": [
+        {
+          "type": "electricity_duty",
+          "amount": 29.41
+        },
+        {
+          "type": "gst",
+          "amount": 520.21
+        },
+        {
+          "type": "municipal_tax",
+          "amount": 20
+        }
+      ],
+      "total_taxes": 569.62,
+      "current_bill": 3430.24,
+      "arrears": -0.53,
+      "payable_within_due_date": 3430,
+      "payable_after_due_date": 3716
+    },
+    "details": {
+      "usage_history": [
+        {
+          "month": "2025-04",
+          "units": 141,
+          "bill_amount": null,
+          "payment": null
+        },
+        {
+          "month": "2025-05",
+          "units": 138,
+          "bill_amount": null,
+          "payment": null
+        },
+        {
+          "month": "2025-06",
+          "units": 197,
+          "bill_amount": null,
+          "payment": null
+        },
+        {
+          "month": "2025-07",
+          "units": 239,
+          "bill_amount": null,
+          "payment": null
+        },
+        {
+          "month": "2025-08",
+          "units": 203,
+          "bill_amount": null,
+          "payment": null
+        },
+        {
+          "month": "2025-09",
+          "units": 176,
+          "bill_amount": null,
+          "payment": null
+        },
+        {
+          "month": "2025-10",
+          "units": 173,
+          "bill_amount": null,
+          "payment": null
+        },
+        {
+          "month": "2025-11",
+          "units": 187,
+          "bill_amount": null,
+          "payment": null
+        },
+        {
+          "month": "2025-12",
+          "units": 124,
+          "bill_amount": null,
+          "payment": null
+        },
+        {
+          "month": "2026-01",
+          "units": 96,
+          "bill_amount": null,
+          "payment": null
+        },
+        {
+          "month": "2026-02",
+          "units": 88,
+          "bill_amount": null,
+          "payment": null
+        },
+        {
+          "month": "2026-03",
+          "units": 115,
+          "bill_amount": null,
+          "payment": null
+        },
+        {
+          "month": "2026-04",
+          "units": 151,
+          "bill_amount": null,
+          "payment": null
+        }
+      ],
+      "payment_history": [
+        {
+          "month": "2026-03",
+          "billed": 2577.31,
+          "paid": 2577.0,
+          "paid_on": "2026-03-16"
+        },
+        {
+          "month": "2026-02",
+          "billed": 2782.51,
+          "paid": 2783.0,
+          "paid_on": "2026-02-19"
+        },
+        {
+          "month": "2026-01",
+          "billed": 2780.55,
+          "paid": 2780.0,
+          "paid_on": "2026-01-15"
+        }
+      ],
+      "charge_lines": [
+        {
+          "label": "Fixed Charges",
+          "units": 3.0,
+          "rate": 300.0,
+          "amount": 900.0
+        },
+        {
+          "label": "Variable Upto 100 Units (Protected)",
+          "units": 100.0,
+          "rate": 10.54,
+          "amount": 1054.0
+        },
+        {
+          "label": "Variable Upto 200 Units (Protected)",
+          "units": 51.0,
+          "rate": 13.01,
+          "amount": 663.51
+        },
+        {
+          "label": "Uniform Quarterly Adjustment",
+          "units": 151.0,
+          "rate": 0.3504,
+          "amount": 52.91
+        },
+        {
+          "label": "FCA :Feb-26",
+          "units": 88,
+          "rate": 1.4235,
+          "amount": 125.27
+        },
+        {
+          "label": "Additional Surcharge (PHL)",
+          "units": 151.0,
+          "rate": 0.43,
+          "amount": 64.93
+        }
+      ],
+      "tax_lines": [
+        {
+          "label": "Electricity Duty",
+          "amount": 29.41
+        },
+        {
+          "label": "Sales Tax u/s 3(1)*",
+          "amount": 520.21
+        },
+        {
+          "label": "MUCT (KMC)",
+          "amount": 20.0
+        }
+      ],
+      "late_payment_amounts": [
+        {
+          "label": "Late Payment Surcharge (5%)",
+          "amount": 143.03
+        },
+        {
+          "label": "Late Payment Surcharge (10%)",
+          "amount": 286.06
+        }
+      ],
+      "printed_percentages": [
+        {
+          "label": "ENERGY CHARGES",
+          "percent": 83.39
+        },
+        {
+          "label": "TAXES AND DUTIES",
+          "percent": 16.61
+        }
+      ],
+      "connection_info": {
+        "category": null,
+        "connection_type": null,
+        "meter_rows": [
+          {
+            "previous": 8819,
+            "present": 8970,
+            "units": 151
+          }
+        ],
+        "mdi_kw": null,
+        "is_net_metering": false
+      },
+      "other_printed_amounts": [
+        {
+          "label": "Amount Payable after Due Date",
+          "amount": 3574
+        },
+        {
+          "label": "Opening Balance",
+          "amount": 2576.47
+        },
+        {
+          "label": "Payments/Adjustment",
+          "amount": -2577.0
+        },
+        {
+          "label": "Previous Dues",
+          "amount": -0.53
+        },
+        {
+          "label": "Remaining Dues",
+          "amount": -0.53
+        },
+        {
+          "label": "Current Bill Amount",
+          "amount": 3430.24
+        },
+        {
+          "label": "Amount Payable within Due Date",
+          "amount": 3430
+        }
+      ],
+      "notes": "FCA of XWDISCOs is also being charged to KE consumers as part of Uniform FCA starting from the month of Jun 25"
+    }
+  },
+  "LESCO_0005": {
+    "level1": {
+      "provider": "LESCO",
+      "tariff": "A-1b(03)T",
+      "sanctioned_load_kw": 10,
+      "bill_month": "2026-07",
+      "reading_date": "2026-07-17",
+      "issue_date": "2026-07-20",
+      "due_date": "2026-07-30",
+      "previous_reading": 11561,
+      "current_reading": 12578,
+      "units_consumed": 1017,
+      "charges": [
+        {
+          "type": "energy",
+          "amount": 17367.77
+        }
+      ],
+      "total_charges": 17367.77,
+      "taxes": [],
+      "total_taxes": 3358.23,
+      "current_bill": 20726,
+      "arrears": -75496,
+      "payable_within_due_date": -54770,
+      "payable_after_due_date": null
+    },
+    "details": {
+      "usage_history": [
+        {
+          "month": "2025-07",
+          "units": 781,
+          "bill_amount": 35552,
+          "payment": null
+        },
+        {
+          "month": "2025-08",
+          "units": 225,
+          "bill_amount": -21364,
+          "payment": null
+        },
+        {
+          "month": "2025-09",
+          "units": -142,
+          "bill_amount": -22475,
+          "payment": null
+        },
+        {
+          "month": "2025-10",
+          "units": -176,
+          "bill_amount": -21274,
+          "payment": null
+        },
+        {
+          "month": "2025-11",
+          "units": -440,
+          "bill_amount": -20094,
+          "payment": null
+        },
+        {
+          "month": "2025-12",
+          "units": -162,
+          "bill_amount": -29501,
+          "payment": null
+        },
+        {
+          "month": "2026-01",
+          "units": 359,
+          "bill_amount": -8052,
+          "payment": null
+        },
+        {
+          "month": "2026-02",
+          "units": -809,
+          "bill_amount": -6686,
+          "payment": null
+        },
+        {
+          "month": "2026-03",
+          "units": -818,
+          "bill_amount": -38209,
+          "payment": null
+        },
+        {
+          "month": "2026-04",
+          "units": -402,
+          "bill_amount": -34226,
+          "payment": null
+        },
+        {
+          "month": "2026-05",
+          "units": -1955,
+          "bill_amount": -30243,
+          "payment": null
+        },
+        {
+          "month": "2026-06",
+          "units": -152,
+          "bill_amount": -75496,
+          "payment": null
+        }
+      ],
+      "payment_history": [],
+      "charge_lines": [
+        {
+          "label": "Total Electricity Charges",
+          "units": null,
+          "rate": null,
+          "amount": 17367.77
+        },
+        {
+          "label": "Net Electricity Charges",
+          "units": null,
+          "rate": null,
+          "amount": 17367.77
+        }
+      ],
+      "tax_lines": [
+        {
+          "label": "Taxes",
+          "amount": 3358.23
+        }
+      ],
+      "late_payment_amounts": [],
+      "printed_percentages": [],
+      "connection_info": {
+        "category": "DOMESTIC",
+        "connection_type": "NET METERING CONNECTION",
+        "meter_rows": [
+          {
+            "previous": 11561,
+            "present": 12578,
+            "units": 1017
+          },
+          {
+            "previous": 3260,
+            "present": 3562,
+            "units": 302
+          },
+          {
+            "previous": 21822,
+            "present": 22859,
+            "units": 1037
+          }
+        ],
+        "mdi_kw": 5,
+        "is_net_metering": true
+      },
+      "other_printed_amounts": [
+        {
+          "label": "Current Bill",
+          "amount": 20726
+        },
+        {
+          "label": "Grand Total",
+          "amount": -54770
+        },
+        {
+          "label": "Arrears",
+          "amount": -75496
+        }
+      ],
+      "notes": "NET METERING CONNECTION"
+    }
+  },
+  "LESCO_0006": {
+    "level1": {
+      "provider": "LESCO",
+      "tariff": "A-2a(04)",
+      "sanctioned_load_kw": 1,
+      "bill_month": "2026-08",
+      "reading_date": "2026-08-26",
+      "issue_date": "2026-08-29",
+      "due_date": "2026-09-09",
+      "previous_reading": 22238,
+      "current_reading": 22303,
+      "units_consumed": 65,
+      "charges": [
+        {
+          "type": "energy",
+          "amount": 3777.49
+        }
+      ],
+      "total_charges": 3777.49,
+      "taxes": [],
+      "total_taxes": 1723.51,
+      "current_bill": 5501,
+      "arrears": 39411,
+      "payable_within_due_date": 44912,
+      "payable_after_due_date": 45263
+    },
+    "details": {
+      "usage_history": [
+        {
+          "month": "2025-08",
+          "units": 440,
+          "bill_amount": 52906,
+          "payment": 52906
+        },
+        {
+          "month": "2025-09",
+          "units": 407,
+          "bill_amount": 23954,
+          "payment": 25632
+        },
+        {
+          "month": "2025-10",
+          "units": 243,
+          "bill_amount": 15558,
+          "payment": null
+        },
+        {
+          "month": "2025-11",
+          "units": 166,
+          "bill_amount": 27502,
+          "payment": 27502
+        },
+        {
+          "month": "2025-12",
+          "units": 206,
+          "bill_amount": 13486,
+          "payment": null
+        },
+        {
+          "month": "2026-01",
+          "units": 124,
+          "bill_amount": 23089,
+          "payment": 23089
+        },
+        {
+          "month": "2026-02",
+          "units": 187,
+          "bill_amount": 12775,
+          "payment": null
+        },
+        {
+          "month": "2026-03",
+          "units": 257,
+          "bill_amount": 31115,
+          "payment": 31692
+        },
+        {
+          "month": "2026-04",
+          "units": 264,
+          "bill_amount": 17999,
+          "payment": null
+        },
+        {
+          "month": "2026-05",
+          "units": 434,
+          "bill_amount": 47317,
+          "payment": 48257
+        },
+        {
+          "month": "2026-06",
+          "units": 350,
+          "bill_amount": 22523,
+          "payment": null
+        },
+        {
+          "month": "2026-07",
+          "units": 225,
+          "bill_amount": 38441,
+          "payment": null
+        }
+      ],
+      "payment_history": [],
+      "charge_lines": [
+        {
+          "label": "Total Electricity Charges",
+          "units": null,
+          "rate": null,
+          "amount": 3777.49
+        }
+      ],
+      "tax_lines": [],
+      "late_payment_amounts": [
+        {
+          "label": "After 14/09/26",
+          "amount": 45263
+        }
+      ],
+      "printed_percentages": [],
+      "connection_info": {
+        "category": "COMMERCIAL",
+        "connection_type": null,
+        "meter_rows": [
+          {
+            "previous": 22238,
+            "present": 22303,
+            "units": 65
+          }
+        ],
+        "mdi_kw": 1,
+        "is_net_metering": false
+      },
+      "other_printed_amounts": [
+        {
+          "label": "L.P SURCHARGE",
+          "amount": 176
+        }
+      ],
+      "notes": null
+    }
+  }
+}
