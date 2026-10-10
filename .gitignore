@@ -1,0 +1,15 @@
+# secrets
+.env
+source/.env
+
+# generated
+cache/
+__pycache__/
+*.pyc
+
+# competition data and scratch (not ours to publish)
+test/
+
+final/
+*.zip
+output/extracted_details.json
